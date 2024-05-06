@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 # 01-Sobrevive en Praga
-- Guia 
-- Moverse por Praga
+Guía de supervivencia por Praga
+- [Guia](Guia.md) 
+- [Moverse por Praga](Moverse.md)
+- [En el restaurante y el alojamiento](Restaurantealojamiento.md)
+- [Recursos online](Recursos.md)
   
-=======
 
->>>>>>> 06d61a04712459753a4d83126a9e91ae68fdfd3f
