@@ -1,3 +1,3 @@
 # Los casos en checo
-Consulta la siguiente presentación para conocer cuales son los casos del checo y algunos de sus usos.  
--[Presentación](index.html)
+Consulta la siguiente explicación para conocer cuales son los casos del checo y algunos de sus usos.  
+-[Presentación de los casos en checo](slides.md)
