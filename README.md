@@ -13,6 +13,6 @@ Ejercicio con el que, a través de un vídeo, aprenderás entre otras cosas a pe
 Explicación de los casos en checo y algunos de sus usos, un poquito de gramática para abrir boca.
 -[Presentación de los casos en checo](slides.md)
 ## 04-Escape Room
-Sigue los pasos del archivo README y juega con esta divertida narración interactiva. 
+Sigue los pasos en este [archivo](README_escape.md) y juega con esta divertida narración interactiva. 
 ## 05-Evaluación
-Sigue los pasos del arvhivo README y evalúa tus conocimientos de checo básico con este test. 
+Sigue los pasos en este [archivo](README_eva.md) y evalúa tus conocimientos de checo básico con este test. 
