@@ -2,7 +2,7 @@
 En este cursillo rápido para perderle miedo al checo, vas a encontrar las siguientes secciones:
 ## 01-Guía de supervivencia
 Guía básica con vocabulario que te ayudará si viajas por primera vez a República checa.
-- [Guia](Guia.md) 
+- [Guia](01-Sobrevive en Praga/Guia.md) 
 - [Moverse por Praga](Moverse.md)
 - [En el restaurante y el alojamiento](Restaurantealojamiento.md)
 - [Recursos online](Recursos.md)
