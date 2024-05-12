@@ -1,6 +1,6 @@
 # CRASH_COURSE-CHECO
 En este cursillo rápido para perderle miedo al checo, vas a encontrar las siguientes secciones:
-## [01] (/01-Sobrevive%20en%20Praga/) Guía de supervivencia
+## [01](/01-Sobrevive%20en%20Praga/) Guía de supervivencia
 Guía básica con vocabulario que te ayudará si viajas por primera vez a República checa.
 - [Guía](/01-Sobrevive%20en%20Praga/Guia.md)
 - [Moverse](/01-Sobrevive%20en%20Praga/Moverse%20.md)
