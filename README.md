@@ -14,4 +14,4 @@ Ejercicio con el que, a través de un vídeo, aprenderás entre otras cosas a pe
 Explicación de los casos en checo y algunos de sus usos, un poquito de gramática para abrir boca.
 - [Casos-checo](/03-Los%20casos%20en%20checo/slides.md)
 ## [04](/04-Evaluacion/) Evaluación
-Sigue los pasos en el archivo README dentro de esta carpeta evalúa tus conocimientos de checo básico con un test. 
+Sigue los pasos en el archivo README dentro de esta [carpeta](/04-Evaluacion/CZECH_QUIZ_defo/) evalúa tus conocimientos de checo básico con un test. 
