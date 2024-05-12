@@ -132,6 +132,5 @@ Aquí tienes una tabla resumen con un ejemplo de sustantivo terminado en consona
 **¡GRACIAS!**
 Si quieres más información sobre los casos en checo pincha en este [enlace](https://www.youtube.com/watch?v=6Sw2XRZtQLQ)
 
-[Imágenes @Freepick](https://www.freepik.es/)
 
 
