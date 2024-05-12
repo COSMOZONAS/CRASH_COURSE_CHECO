@@ -7,7 +7,7 @@ date: 12 de marzo, 2024
 
 ## REFLEXIONA
 ¿Sabes lo que son las declinaciones?¿Qué casos conoces?
-![Designed by Freepik](images/brain.jpg)
+
 
 
 
@@ -122,7 +122,6 @@ Aquí tienes una tabla resumen con un ejemplo de sustantivo terminado en consona
 3. ¿Delante de qué caso va la preposición "s" (con) en checo?
 4. ¿A qué caso pertenece la terminación del sustantivo "hrad**ům**"?
 
-![Designed by Freepik](images/preguntas.jpg)
 
 ## SOLUCIONES
 1. El dativo.
