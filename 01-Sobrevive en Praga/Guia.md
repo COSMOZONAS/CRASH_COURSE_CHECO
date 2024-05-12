@@ -1,5 +1,4 @@
 # Primeros pasos
-![](img/Prague.jpg)
 
 ¡Bienvenido a Praga! Vítejte v Praze!.Esta encantadora ciudad te espera con su rico patrimonio histórico, su arquitectura impresionante y su ambiente vibrante. Para que tu viaje sea lo más placentero y menos estresante posible, aquí tienes una breve guía de supervivencia para moverte por la ciudad, comunicarte con los lugareños y disfrutar al máximo de tu experiencia. ¡Disfruta! Vychutnej si! 
 
@@ -48,4 +47,3 @@
 
 
 ***
-![](img/saludos.jpg)

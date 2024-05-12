@@ -1,5 +1,5 @@
 # Moverse por Praga
-![](img/train.jpg)
+
 
 No te pierdas con estas frases útiles para pedir direcciones y poder guiarte en la ciudad.
 

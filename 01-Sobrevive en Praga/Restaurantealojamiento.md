@@ -1,6 +1,6 @@
 # Alojamiento y restaurantes
 ***
-![](img/restaurante.jpg)
+
 
 Es hora de comer. Estás hambriento y te apetece entrar en un local, pero tu desconocimiento del idioma te frena. Además necesitas alquilar un sitio donde pasar la noche. ¡Aprovecha para practicar tu checo con estas frases y duerme tranquilo!
 
