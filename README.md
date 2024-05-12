@@ -1,10 +1,11 @@
 # CRASH_COURSE-CHECO
 En este cursillo rápido para perderle miedo al checo, vas a encontrar las siguientes secciones:
-## 01-Guía de supervivencia /path/to/your/folder
+## 01-Guía de supervivencia
+Guía básica con vocabulario que te ayudará si viajas por primera vez a República checa.
 - [Guía](/01-Sobrevive%20en%20Praga/Guia.md)
 - [Moverse](/01-Sobrevive%20en%20Praga/Moverse%20.md)
 - [Restaurante-alojamiento](/01-Sobrevive%20en%20Praga/Restaurantealojamiento.md)
-Guía básica con vocabulario que te ayudará si viajas por primera vez a República checa.
+
 ## 02-En el restaurante
 Ejercicio con el que, a través de un vídeo, aprenderás entre otras cosas a pedir una cerveza en un restaurante 
 - [Actividad](/02-En%20el%20restaurante/restaurante.md)
